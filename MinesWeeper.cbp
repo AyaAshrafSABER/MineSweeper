@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MinesWeeper" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MinesWeeper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MinesWeeper" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Actions.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Actions.h" />
+		<Unit filename="Empty Cell.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Empty Cell.h" />
+		<Unit filename="First Click.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="First Click.h" />
+		<Unit filename="Number.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Number.h" />
+		<Unit filename="OpeningOpenCell.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="OpeningOpenCell.h" />
+		<Unit filename="Order.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Order.h" />
+		<Unit filename="Win Lose.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Win Lose.h" />
+		<Unit filename="draw the grid.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="draw the grid.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="rand.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rand.h" />
+		<Unit filename="save.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="save.h" />
+		<Unit filename="start game.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="start game.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

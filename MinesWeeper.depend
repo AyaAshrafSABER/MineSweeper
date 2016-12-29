@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1482838764 source:e:\college\projects\minesweeper\draw the grid.c
+
+1482842563 source:e:\college\projects\minesweeper\main.c
+	"menu.h"
+
+1482839914 source:e:\college\projects\minesweeper\actions.c
+
+1482840978 source:e:\college\projects\minesweeper\empty cell.c
+
+1482841608 source:e:\college\projects\minesweeper\first click.c
+	<time.h>
+
+1482841904 e:\college\projects\minesweeper\menu.h
+
+1482838764 e:\college\projects\minesweeper\draw the grid.h
+	<stdlib.h>
+	<stdio.h>
+
+1482840761 e:\college\projects\minesweeper\win lose.h
+
+1482842983 e:\college\projects\minesweeper\order.h
+
+1482840065 e:\college\projects\minesweeper\rand.h
+
+1482838993 e:\college\projects\minesweeper\save.h
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482840207 e:\college\projects\minesweeper\number.h
+
+1482840978 e:\college\projects\minesweeper\empty cell.h
+
+1482841218 e:\college\projects\minesweeper\openingopencell.h
+
+1482839914 e:\college\projects\minesweeper\actions.h
+
+1482840495 e:\college\projects\minesweeper\first click.h
+
+1482839262 e:\college\projects\minesweeper\start game.h
+
+1482840207 source:e:\college\projects\minesweeper\number.c
+
+1482841218 source:e:\college\projects\minesweeper\openingopencell.c
+
+1482841904 source:e:\college\projects\minesweeper\menu.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"Order.h"
+	"rand.h"
+	"save.h"
+	"Number.h"
+	"Empty Cell.h"
+	"OpeningOpenCell.h"
+	"Actions.h"
+	"First Click.h"
+	"start game.h"
+
+1482842855 source:e:\college\projects\minesweeper\order.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482842133 source:e:\college\projects\minesweeper\rand.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1482842170 source:e:\college\projects\minesweeper\save.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482842442 source:e:\college\projects\minesweeper\win lose.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482842347 source:e:\college\projects\minesweeper\start game.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"menu.h"
+	"rand.h"
+	"Number.h"
+	"Order.h"
+	"Actions.h"
+	"First Click.h"
+
+1482977474 source:e:\aya's update\minesweeper\actions.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"rand.h"
+	"save.h"
+	"Number.h"
+	"Empty Cell.h"
+	"OpeningOpenCell.h"
+
+1482927303 source:e:\aya's update\minesweeper\draw the grid.c
+	<stdio.h>
+
+1482840978 source:e:\aya's update\minesweeper\empty cell.c
+
+1482972651 source:e:\aya's update\minesweeper\first click.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+	"start game.h"
+	"Actions.h"
+	"save.h"
+	"Empty Cell.h"
+	"Number.h"
+	"rand.h"
+	"draw the grid.h"
+
+1482842563 source:e:\aya's update\minesweeper\main.c
+	"menu.h"
+
+1482928530 e:\aya's update\minesweeper\menu.h
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"Order.h"
+	"rand.h"
+	"save.h"
+	"Number.h"
+	"Empty Cell.h"
+	"OpeningOpenCell.h"
+	"Actions.h"
+	"First Click.h"
+	"start game.h"
+
+1482973136 source:e:\aya's update\minesweeper\menu.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"Order.h"
+	"rand.h"
+	"save.h"
+	"Number.h"
+	"Empty Cell.h"
+	"OpeningOpenCell.h"
+	"Actions.h"
+	"First Click.h"
+	"start game.h"
+
+1482838764 e:\aya's update\minesweeper\draw the grid.h
+	<stdlib.h>
+	<stdio.h>
+
+1482840761 e:\aya's update\minesweeper\win lose.h
+
+1482842983 e:\aya's update\minesweeper\order.h
+
+1482840065 e:\aya's update\minesweeper\rand.h
+
+1482931463 e:\aya's update\minesweeper\save.h
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482840207 e:\aya's update\minesweeper\number.h
+
+1482840978 e:\aya's update\minesweeper\empty cell.h
+
+1482841218 e:\aya's update\minesweeper\openingopencell.h
+
+1482985496 e:\aya's update\minesweeper\actions.h
+
+1482931560 e:\aya's update\minesweeper\first click.h
+
+1482931619 e:\aya's update\minesweeper\start game.h
+
+1482840207 source:e:\aya's update\minesweeper\number.c
+
+1482841218 source:e:\aya's update\minesweeper\openingopencell.c
+
+1482842855 source:e:\aya's update\minesweeper\order.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482842133 source:e:\aya's update\minesweeper\rand.c
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1482931441 source:e:\aya's update\minesweeper\save.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
+1482971974 source:e:\aya's update\minesweeper\start game.c
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"draw the grid.h"
+	"Win Lose.h"
+	"menu.h"
+	"rand.h"
+	"Number.h"
+	"Order.h"
+	"Actions.h"
+	"First Click.h"
+
+1482842442 source:e:\aya's update\minesweeper\win lose.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+
